@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository aims to provide a simple 3D renderer for game models.
+This repository aims to provide a simple 3D renderer for game models, using as guide javidx9 video series.
 
 Use the `README.md` as your guide.
 
