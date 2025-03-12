@@ -148,7 +148,13 @@ Below are gifs of the engine running.
 ### TEAPOT
 <p float="left">
   <p align="middle">
-  <img src="images/teapot.gif" width="45%" hspace="20"/>
+  <img src="images/teapot2.gif" width="45%" hspace="20"/>
+</p>
+
+### MARIO
+<p float="left">
+  <p align="middle">
+  <img src="images/mario.png" width="45%" hspace="20"/>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
