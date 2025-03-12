@@ -148,21 +148,10 @@ Below are gifs of the engine running.
 ### TEAPOT
 <p float="left">
   <p align="middle">
-  <img src="images/blackjack1.png" width="45%" hspace="20"/>
-  <img src="images/blackjack2.png" width="45%" hspace="20"/> 
+  <img src="images/teapot.gif" width="45%" hspace="20"/>
 </p>
-
-### MARIO
-<p float="left">
-  <p align="middle">
-  <img src="images/brick.png" width="45%" hspace="20"/>
-  <img src="images/snake.png" width="45%" hspace="20"/> 
-</p>
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
